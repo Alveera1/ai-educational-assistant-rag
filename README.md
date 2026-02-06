@@ -38,7 +38,7 @@ Instead of guessing, the assistant searches your textbook data and then answers 
 - **ChromaDB** — Vector database for semantic retrieval  
 - **Sentence Transformers** — Text embeddings  
 
-How It Works
+~How It Works
 
 ```
 User Question
@@ -94,8 +94,8 @@ ollama pull phi3
 ```
 ---
 
-Add Your PDFs
-~Place your textbooks inside the:
+~Add Your PDFs
+Place your textbooks inside the:
 
 ```
 data/
@@ -144,5 +144,6 @@ Open the local URL shown in the terminal — your AI assistant is ready 🎉
 
 Contributions are welcome!  
 Feel free to fork this repository and submit a pull request.
+
 
 
