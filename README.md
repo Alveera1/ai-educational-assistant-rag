@@ -62,7 +62,7 @@ Simple architecture. Professional results.
 ~Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-educational-assistant-rag.git
+git clone https://github.com/Alveera1/ai-educational-assistant-rag
 cd ai-educational-assistant-rag
 ```
 
@@ -144,6 +144,7 @@ Open the local URL shown in the terminal — your AI assistant is ready 🎉
 
 Contributions are welcome!  
 Feel free to fork this repository and submit a pull request.
+
 
 
 
